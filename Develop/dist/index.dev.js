@@ -53,10 +53,6 @@ function questions() {
     message: "Please enter your GitHub username: "
   }, {
     type: "input",
-    name: "slackname",
-    message: "Please enter your Slack username: "
-  }, {
-    type: "input",
     name: "tests",
     message: "Were there any tests included in this project?"
   }]);
