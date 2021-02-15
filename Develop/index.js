@@ -25,8 +25,8 @@ function questions() {
         },
         {
             type: "input",
-            name: "purpose",
-            message: "What is the purpose of your project?"
+            name: "usage",
+            message: "What is the usage of your project?"
         },
         {
             type: "input",

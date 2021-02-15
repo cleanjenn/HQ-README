@@ -13,7 +13,7 @@ https://cleanjenn.github.io/HQ-README/
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Installation](#installation)
-- [Purpose](#purpose)
+- [Usage](#usage)
 - [Contributing](#contributing)
 - [Questions](#questions)
 
@@ -52,7 +52,7 @@ THEN I am taken to the corresponding section of the README
 `npm init`<br />
 `npm install inquirer`
 
-# Purpose
+# Usage
 ```
 Ability to create a README file by answering the questions prompt to you in the beigining of the app.
 ```

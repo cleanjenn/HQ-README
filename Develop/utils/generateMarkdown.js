@@ -11,15 +11,15 @@ function generateMarkdown(answers) {
 
   ### Table of Contents
   - [Description](#description)
-  - [Purpose](#purpose)
+  - [usage](#usage)
   - [Installation](#installation)
   - [License](#license)
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
 
-  ### Purpose
-  ${answers.purpose}
+  ### Usage
+  ${answers.usage}
 
   ### Installation
   ${answers.installation}
