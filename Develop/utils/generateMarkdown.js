@@ -2,7 +2,7 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 function generateMarkdown(answers) {
   return `
-  <h1>${answers.title}</h1> 
+  <h1 align="center">${answers.title}</h1> 
 
   ![badge](https://img.shields.io/badge/license-${answers.license}-darkblue)<br />
 

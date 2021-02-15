@@ -1,10 +1,10 @@
 
-  <h1>test</h1> 
+  <h1 align="center">Test</h1> 
 
-  ![badge](https://img.shields.io/badge/license-GNU-darkblue)<br />
+  ![badge](https://img.shields.io/badge/license-Academic-darkblue)<br />
 
   ### Description
-  testing yet again
+  testing if this works as a video
 
   ### Table of Contents
   - [Description](#description)
@@ -16,15 +16,15 @@
   - [Questions](#questions)
 
   ### Purpose
-  to test
+  yes testing yet again
 
   ### Installation
   tester
 
   ### License
-  ![badge](https://img.shields.io/badge/license-GNU-darkblue)
+  ![badge](https://img.shields.io/badge/license-Academic-darkblue)
   <br />
-  This application is covered by the GNU license. 
+  This application is covered by the Academic license. 
 
   ### Contributing
   myself
@@ -36,10 +36,10 @@
   undefined<br />
   <br />  
 
-  Find me on GitHub: [jay](https://github.com/jay)<br />
+  Find me on GitHub: [mememe](https://github.com/mememe)<br />
   <br />
 
-  Feel free to email me with any questions: j@email.com<br />
+  Feel free to email me with any questions: me@gmail.com<br />
   <br />
 
   This High Quality-README was generated with ❤️ by Jennifer Gomez
