@@ -4,19 +4,19 @@
   ![badge](https://img.shields.io/badge/license-Academic-darkblue)<br />
 
   ### Description
-  testing if this works as a video
+  testing this again to see the video
 
   ### Table of Contents
   - [Description](#description)
-  - [Purpose](#purpose)
+  - [usage](#usage)
   - [Installation](#installation)
   - [License](#license)
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
 
-  ### Purpose
-  yes testing yet again
+  ### Usage
+  video purposes
 
   ### Installation
   tester
@@ -39,7 +39,7 @@
   Find me on GitHub: [mememe](https://github.com/mememe)<br />
   <br />
 
-  Feel free to email me with any questions: me@gmail.com<br />
+  Feel free to email me with any questions: me@me.com<br />
   <br />
 
   This High Quality-README was generated with ❤️ by Jennifer Gomez

@@ -22,7 +22,7 @@ https://cleanjenn.github.io/HQ-README/
 I used a command-line application: Node.js, to dynamically generate a professional README file from a user's input using the Inquirer package. The README file is then displayed in a separate file directory that is located [Here](./Develop/dist/README.md)
 
 The full video showing functionality of the appliication creating a README can be accesed via this link:
-[Video Link](https://drive.google.com/file/d/1Z6KhIJkageahm3FSMMZgULOiCm2BUWmc/view?usp=sharing)
+[Video Link](https://drive.google.com/file/d/1nTVKMLAorhHFlL0ZLmX0dZDmTr9UPE5u/view?usp=sharing)
 
 # User Story
 ``` 
